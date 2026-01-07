@@ -37,7 +37,7 @@ class Source:
 
 
 SOURCES: list[Source] = [
-    Source(name="Toffee", url="https://example.com/toffee"),
+    Source(name="Toffee", url="https://toffeelive.com/en/live"),
     Source(name="Bongo", url="https://example.com/bongo"),
 ]
 
